@@ -3,7 +3,7 @@
     @keyframes signal3_f_o{0%,16.666667%,33.333333%{fill-opacity:1;animation-timing-function:step-end}25%,41.666667%,8.333333%{fill-opacity:0;animation-timing-function:step-end}to{fill-opacity:1}}@keyframes signal2_f_o{0%,58.333333%,75%,91.666667%{fill-opacity:1;animation-timing-function:step-end}50%,66.666667%,83.333333%{fill-opacity:0;animation-timing-function:step-end}to{fill-opacity:1}}#signal3{animation:signal3_f_o 6000ms linear infinite normal forwards}#signal2{animation:signal2_f_o 6000ms linear infinite normal forwards}
   </style>
   <g id="background" transform="matrix(4 0 0 4 -827.28 -2254.526)">
-    <path id="square" d="M398.6 660.01v72.19c0 11.03-8.32 21.11-19.18 23.18-1.61.31-3.27.48-4.9.48-47.97.03-95.93.02-143.9.02-11.76 0-22.02-9.02-23.56-20.72a23.27 23.27 0 01-.23-3.12c-.01-48.09-.01-96.18-.01-144.26 0-11.03 8.32-21.12 19.18-23.18 1.61-.31 3.27-.48 4.9-.48 48.01-.02 96.02-.02 144.02-.02 11.03 0 21.13 8.33 23.18 19.18.3 1.61.48 3.27.48 4.9.03 23.95.02 47.89.02 71.83z" fill="#D52727" stroke="none" stroke-width="1"/>
+    <path id="square" d="M398.6 660.01v72.19c0 11.03-8.32 21.11-19.18 23.18-1.61.31-3.27.48-4.9.48-47.97.03-95.93.02-143.9.02-11.76 0-22.02-9.02-23.56-20.72a23.27 23.27 0 01-.23-3.12c-.01-48.09-.01-96.18-.01-144.26 0-11.03 8.32-21.12 19.18-23.18 1.61-.31 3.27-.48 4.9-.48 48.01-.02 96.02-.02 144.02-.02 11.03 0 21.13 8.33 23.18 19.18.3 1.61.48 3.27.48 4.9.03 23.95.02 47.89.02 71.83z" fill="#2636eb" stroke="none" stroke-width="1"/>
   </g>
   <g id="house_top" transform="matrix(4 0 0 4 -827.276 -2254.526)">
     <g id="house_group" stroke="none" stroke-width="1">
